@@ -1,7 +1,7 @@
 # YTDownloader
 A simple python gateway to youtube downloading
 <hr>
-This project is under development a got a very active developer😊
+This project is under development and got a very active developer😊
 
 This project is using:
 
